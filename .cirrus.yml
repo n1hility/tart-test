@@ -1,5 +1,6 @@
 macos_instance:
   image: ghcr.io/cirruslabs/macos-ventura-base:latest
+  memory: 12G
 
 task:
   script: |
